@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "DisableDMCallIdle",
+    "description": "port of vencooc plugin of the same name",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "Lúkos Ddraigcrafangau'r",
+            "id": "950194832310140978"
         }
     ],
     "main": "src/index.ts",
