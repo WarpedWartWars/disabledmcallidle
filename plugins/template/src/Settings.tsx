@@ -3,6 +3,6 @@ const { FormText } = Forms;
 
 export default () => (
     <FormText>
-        Hello, world!
+        port of vencooc plugin of the same name
     </FormText>
 )
